@@ -33,5 +33,6 @@ child = {
 }
 
 child[:father][:mother][:name]="Raisa Mangova"
+child[:mother][:mother][:name]="Maria Fridman"
 
 puts child[:father][:mother][:name]
