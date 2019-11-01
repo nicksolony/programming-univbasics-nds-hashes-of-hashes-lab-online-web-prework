@@ -41,7 +41,7 @@ child[:mother][:mother][:name]="Maria Fridman"
 child[:mother][:father][:father]={
   name:"Yakov Chertok",
   mother:{},
-  father{}
+  father:{}
 } 
 
 
