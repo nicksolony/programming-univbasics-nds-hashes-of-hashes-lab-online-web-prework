@@ -43,3 +43,6 @@ child[:mother][:father][:father]={
   mother:{},
   father{}
 } 
+
+
+puts child
