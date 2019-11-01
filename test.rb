@@ -6,7 +6,7 @@ mother_hash = {
     father:{}
   },
   father: {
-    name:"Mark Chertokk",
+    name:"Mark Chertok",
     mother:{},
     father:{}
   }
