@@ -1,6 +1,6 @@
 mother_hash = {
   name:"Alla Solona",
-  mother : {},
+  mother: {},
   father: {}
 }
 
