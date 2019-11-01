@@ -1,13 +1,29 @@
 mother_hash = {
   name:"Alla Solona",
-  mother: {},
-  father: {}
+  mother: {
+    name:"Maria Chertok",
+    mother:{},
+    father:{}
+  },
+  father: {
+    name:"Mark Chertokk",
+    mother:{},
+    father:{}
+  }
 }
 
 father_hash = {
   name:"Alex Solony",
-  mother: {},
-  father: {}
+  mother: {
+    name:"Raisa Solona",
+    mother:{},
+    father:{}
+  },
+  father: {
+    name: "Ivan Solony",
+    mother:{},
+    father:{}
+  }
 }
 
 child = {
