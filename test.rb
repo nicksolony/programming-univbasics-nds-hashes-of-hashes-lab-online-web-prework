@@ -34,4 +34,4 @@ child = {
 
 #puts child
 
-puts child[:mother]
+puts child[:mother][:mother][:name]
