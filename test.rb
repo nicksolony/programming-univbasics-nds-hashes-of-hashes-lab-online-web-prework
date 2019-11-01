@@ -33,3 +33,5 @@ child = {
 }
 
 puts child
+
+puts child[]
