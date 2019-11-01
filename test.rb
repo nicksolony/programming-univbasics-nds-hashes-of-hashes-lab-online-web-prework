@@ -32,6 +32,6 @@ child = {
   father: father_hash
 }
 
-#puts child
+child[:father][:mother][:name]="Raisa Mangova"
 
 puts child[:father][:mother][:name]
